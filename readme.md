@@ -14,7 +14,7 @@ Building modern web applications, exploring scalable architectures, and solving 
 - 🌱 Currently learning **System Design, TypeScript, and Spring Boot**
 - 🧠 Practicing **Data Structures & Algorithms**
 - ⚡ Interested in Web Development, Performance Optimization, and Backend Architecture
-- 
+  
 ---
 
 ### 🛠 Languages and Tools
