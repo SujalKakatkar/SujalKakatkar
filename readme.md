@@ -11,16 +11,15 @@ Building modern web applications, exploring scalable architectures, and solving 
 
 - 🎓 Bachelor's Graduate
 - 💻 Full Stack Developer
-- 🌱 Currently learning **System Design, TypeScript, and Advanced React**
+- 🌱 Currently learning **System Design, TypeScript, and Spring Boot**
 - 🧠 Practicing **Data Structures & Algorithms**
 - ⚡ Interested in Web Development, Performance Optimization, and Backend Architecture
-- 📄 Resume: [View Resume](https://drive.google.com/drive/folders/1k0Kmb4KE8_ffKSd2KR0Uky6NW5QxkeLf?usp=sharing)
-
+- 
 ---
 
 ### 🛠 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwindcss,react,nextjs,nodejs,express,graphql,mongodb,docker,git,pnpm,supabase,firebase,ubuntu&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,java,tailwindcss,react,vite,nextjs,nodejs,express,spring,hibernate,mongodb,mysql,docker,git,maven,pnpm,yarn,vscode,eclipse,idea,supabase,firebase,ubuntu&theme=dark)](https://skillicons.dev)
 
 
 
