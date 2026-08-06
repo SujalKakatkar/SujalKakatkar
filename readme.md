@@ -10,10 +10,10 @@ Building modern web applications, exploring scalable architectures, and solving 
 ### 🚀 About Me
 
 - 🎓 Bachelor's Graduate
-- 💻 Full Stack Developer
-- 🌱 Currently learning **System Design, TypeScript, and Spring Boot**
+- 💻 Full Stack Java Developer
+- 🌱 Currently learning **System Design and Spring Boot**
 - 🧠 Practicing **Data Structures & Algorithms**
-- ⚡ Interested in Web Development, Performance Optimization, and Backend Architecture
+- ⚡ Interested in Java Development, Performance Optimization, and Backend Architecture
   
 ---
 
