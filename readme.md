@@ -2,18 +2,19 @@
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
-Building modern web applications, exploring scalable architectures, and solving problems through code.
+Building web applications, developer tools, and backend systems through AI-assisted development while continuously improving my problem-solving skills.
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Bachelor's Graduate
-- 💻 Full Stack Java Developer
-- 🌱 Currently learning **System Design and Spring Boot**
-- 🧠 Practicing **Data Structures & Algorithms**
-- ⚡ Interested in Java Development, Performance Optimization, and Backend Architecture
+- Bachelor's graduate in Computer Applications
+- Software Developer focused on full-stack and backend development
+- Experienced with React, TypeScript, Node.js, Express.js, and Spring Boot
+- Currently learning System Design and Spring Boot
+- Practicing Data Structures & Algorithms
+- Interested in backend architecture, performance optimization, and building reliable software
   
 ---
 
