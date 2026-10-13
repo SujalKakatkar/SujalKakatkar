@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sujal Kakatkar</h1>
+<h1 align="center">Hi, I'm Sujal Kakatkar</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@ Building web applications, developer tools, and backend systems through AI-assis
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 - Bachelor's graduate in Computer Applications
 - Software Developer focused on full-stack and backend development
@@ -18,7 +18,7 @@ Building web applications, developer tools, and backend systems through AI-assis
   
 ---
 
-### 🛠 Languages and Tools
+### Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,java,tailwindcss,react,vite,nextjs,nodejs,express,spring,hibernate,mongodb,mysql,docker,git,maven,pnpm,yarn,vscode,eclipse,idea,supabase,firebase,ubuntu&theme=dark)](https://skillicons.dev)
 
@@ -26,7 +26,7 @@ Building web applications, developer tools, and backend systems through AI-assis
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
   <img
@@ -39,8 +39,3 @@ Building web applications, developer tools, and backend systems through AI-assis
   <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
 </a>
 
----
-
-### 💡 Quote
-
-> Consistency beats intensity. Small improvements every day lead to extraordinary results.
