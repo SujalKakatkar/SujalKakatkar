@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Sujal Kakatkar</h1>
-<h3 align="center">Software Developer</h3>
+# Hi, I'm Sujal Kakatkar
 
-<p align="center">
+### Software Developer
+
+
 Building web applications, developer tools, and backend systems through AI-assisted development while continuously improving my problem-solving skills.
-</p>
 
 ---
 
